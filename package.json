@@ -1,7 +1,7 @@
 {
   "name": "monokai-inverted",
   "theme": "syntax",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "private": true,
   "description": "A monokai theme. For inverted screen colors.",
   "repository": "https://github.com/JCCR/monokai.git",
